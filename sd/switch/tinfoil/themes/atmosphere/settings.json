@@ -1,0 +1,52 @@
+{
+	"color": "FFFFFFFF",
+	"logo": "romfs:/images/tinfoil_dark.png",
+	"background": {
+		"color": "00000000",
+		"image": "sdmc:/switch/tinfoil/themes/atmosphere/bg.png"
+	},
+
+	"selection": {
+		"color": "8188BFFF",
+		"background": {
+			"color": "00000099"
+		},
+		"border": {
+			"color": "00000000",
+			"width": 3
+		}
+	},
+	"menu": {
+		"selection": {
+			"color": "8188BFFF",
+			"background": {
+				"color": "000000DD"
+			},
+			"border": {
+				"color": "8188BFFF",
+				"width": 3
+			}
+		},
+		"background": {
+			"color":  "00000000"
+		}
+	},
+	"border": {
+		"color": "00000000",
+		"width": 1
+	},
+	"progressBar": {
+		"color": "8188BFFF",
+		"background": {
+			"color": "494F7C99"
+		},
+		"width": 1
+	},
+	"scrollBar": {
+		"color": "494F7CFF",
+		"background": {
+			"color": "00000000"
+		},
+		"width": 1
+	}
+}

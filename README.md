@@ -19,7 +19,7 @@ What does it include:
 
 Included payloads in Hekate:
 
-* fusee primary (main launcher)
-* Lockpick_RCM
-* Incognito_RCM
+* fusee primary 0.10.0 (main launcher)
+* Lockpick_RCM 1.8.0
+* Incognito_RCM 0.4.1
  

@@ -10,7 +10,7 @@ What does it include:
 * Tinfoil 7.0.1 powered with /hbg/Shop, JackInTheShop and MilkInTheBox (disabled)
 * pPlay 3.1
 * EdiZon -Snapshot Build- 12.12.2019
-* NXThemes Installer 2.2
+* NXThemesInstaller 2.2
 * ftpd snap! v2.3.1
 * ChoiDujourNX 1.0.2
 * NX-ntpc 1.0.4
@@ -20,5 +20,5 @@ Included payloads in Hekate:
 * fusee-primary 0.10.0 (main launcher)
 * Lockpick_RCM 1.8.0
 * Incognito_RCM 0.4.1
-* TegraExplorer 1.0.2
+* TegraExplorer 1.1.0
  

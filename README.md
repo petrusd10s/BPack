@@ -17,8 +17,7 @@ What does it include:
 
 Included payloads in Hekate:
 
-* fusee-primary 0.10.0 (main launcher)
 * Lockpick_RCM 1.8.0
 * Incognito_RCM 0.4.1
-* TegraExplorer 1.1.0
+* TegraExplorer 1.1.1
  

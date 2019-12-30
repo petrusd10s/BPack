@@ -15,7 +15,7 @@ What does it include:
 * ChoiDujourNX 1.0.2
 * NX-ntpc 1.0.4
 
-Included payloads in Hekate:
+Included payload utilities in Hekate:
 
 * Lockpick_RCM 1.8.0
 * Incognito_RCM 0.4.1

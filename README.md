@@ -1,4 +1,4 @@
-# BestPack
+# BPack
 
 Atmosphere pack that has everything you need to run Atmosphere and get the best of everything.
 

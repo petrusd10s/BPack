@@ -1,0 +1,3 @@
+CC buttle and AP buttle codes will only apply during battle
+these code are only work with atmosphere,because code include address and value check to avoid crash
+I'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code.

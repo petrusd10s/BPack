@@ -1,0 +1,4 @@
+[From MAX-CHEATS.com by Lennux for TOKI Retrollector Edition]
+
+[Infinity Lives]
+011F0000 01428710 00000063

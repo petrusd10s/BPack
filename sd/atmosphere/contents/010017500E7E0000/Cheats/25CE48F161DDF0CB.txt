@@ -1,0 +1,9 @@
+[Lives unlimited]
+04100000 9CD35F54 40220000
+
+[Add MAX Coins with R]
+80000080
+04100000 9CD35F64 4058C000
+
+Energy changes from time to time.
+Pointer not found for this.

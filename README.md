@@ -8,7 +8,7 @@ What does it include:
 * Hekate CTCaer 5.1.1 Nyx 0.8.4
 * Atmosphere ES Hekate FS (+ACID) Patches (sigpatches) for 2.0.0 - 9.1.0
 * Tinfoil 7.0.1a powered with /hbg/Shop, JackInTheShop and MilkInTheBox (disabled)
-* Awoo-Installer 1.3.0
+* Awoo-Installer 1.3.1
 * EdiZon Snapshot
 * NXThemesInstaller 2.2
 * ftpd snap! 2.3.1

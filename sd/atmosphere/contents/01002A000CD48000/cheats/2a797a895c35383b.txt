@@ -1,2 +1,0 @@
-[hitanywhere mode]
-04000000 003FFE00 D65F03C0

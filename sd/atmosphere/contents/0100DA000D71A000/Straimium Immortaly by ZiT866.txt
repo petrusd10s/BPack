@@ -1,1 +1,0 @@
-Pressing the A button and using the roll will release invincibility. This is a game specification.

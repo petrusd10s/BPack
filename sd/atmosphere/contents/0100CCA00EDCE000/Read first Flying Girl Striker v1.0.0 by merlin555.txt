@@ -1,2 +1,0 @@
-The addresses are dynamic, but sometimes work.
-Delete Savegame first !

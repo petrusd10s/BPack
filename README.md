@@ -8,8 +8,7 @@ What does it include:
 * Hekate CTCaer 5.1.1 Nyx 0.8.4
 * Tinfoil 8.0.0 powered with /hbg/Shop and JackInTheShop
 * Awoo-Installer 1.3.1
-* EdiZon Snapshot
-** Lots of cheats added to the Pack
+* EdiZon Snapshot (Cheats included)
 * NXThemesInstaller 2.2
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2

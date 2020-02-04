@@ -1,0 +1,6 @@
+*Info*
+When you go back to the main menu and play again,
+the code is no longer work.
+And The same applies to a new world.
+
+Restart the game !

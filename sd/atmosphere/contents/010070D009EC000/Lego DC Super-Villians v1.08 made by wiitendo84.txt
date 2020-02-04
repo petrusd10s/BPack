@@ -1,0 +1,1 @@
+ Just use each level code in the level specific to it. If you enable all it may crash the game as they use the same pointers and offsets.

@@ -1,0 +1,54 @@
+[Money 9999999]
+04100000 4BEF3F3C 0098967F
+
+[Gasha Point 9999]
+02100000 4BEF3F40 0000270F
+
+[Today's Gasha 99/99]
+02100000 4BEE13FB 00006363
+
+[Food and Tools (Type)(1st)]
+04100000 4BEFA024 0000xxxx
+xxxx = ID
+Next +10h
+
+[Food and Tools x99 (1st)]
+01100000 4BEFA02C 00000063
+Next +10h
+
+[Equipped (Type)(1st)]
+04100000 4BEFBF64 0000xxxx
+xxxx = ID
+Next +10h
+
+[Equipped x99 (1st)]
+02100000 4BEFBF6C 00000001
+Next +10h
+
+[The Soul of Youkai (Type)(1st)]
+04100000 4BF0519C 0000xxxx
+xxxx = ID
+Next +18h
+
+[The Soul of Youkai (White) x99 (1st)]
+01100000 4BF051A4 00000063
+[The Soul of Youkai (Red) x99 (1st)]
+01100000 4BF051A6 00000063
+[The Soul of Youkai (Gold) x99 (1st)]
+01100000 4BF051A8 00000063
+Next +18h
+
+[Special Souls (Type)(1st)]
+04100000 4BF04B5C 0000xxxx
+xxxx = ID
+Next +10
+
+[Special Souls x999 (1st)]
+02100000 4BF04B64 000003E7
+Next +10h
+
+[B button Super Dash]
+04100000 43D15758 3F800000
+80000002
+04100000 43D15758 40800000
+20000000

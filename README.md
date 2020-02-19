@@ -6,7 +6,7 @@ What does it include:
 
 * Atmosphere 0.10.2 (with ES/FS sigpatches)
 * Hekate CTCaer 5.1.1 Nyx 0.8.4
-* Tinfoil 8.1.0 powered with /hbg/Shop
+* Tinfoil 8.1.0 R10 powered with /hbg/Shop
 * Awoo-Installer 1.3.1
 * EdiZon Snapshot (Cheats included)
 * NXThemesInstaller 2.2

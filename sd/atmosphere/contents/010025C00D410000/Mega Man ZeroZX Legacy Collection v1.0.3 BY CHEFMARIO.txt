@@ -1,0 +1,6 @@
+ [Walk through Walls]
+Hold R : Right & Left
+Hold R+L : Down
+
+//this code gives you a clear time of 2'30, 80 enemies kill, 0 retries, 0 Damage and 0 elf use.
+//For a perfect 100p mission score....

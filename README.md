@@ -4,9 +4,9 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere 0.10.4 (forked) (with ES patches)
-* Hekate CTCaer 5.1.2 Nyx 0.8.5 (with FS patches)
-* Tinfoil 8.10 R21 powered with /hbg/Shop and nxShop
+* Atmosphere 0.10.4 (forked)
+* Hekate CTCaer 5.1.2 Nyx 0.8.5
+* Tinfoil 8.10 R21 powered with /hbg/Shop and NXShop
 * Awoo-Installer 1.3.2
 * EdiZon Snapshot (Cheats included)
 * NXThemesInstaller 2.2.1

@@ -6,8 +6,8 @@ What does it include:
 
 * Atmosphere 0.10.4 (forked)
 * Hekate CTCaer 5.1.2 Nyx 0.8.5
-* Tinfoil 8.10 R21 powered with /hbg/Shop and NXShop
-* Awoo-Installer 1.3.2
+* Tinfoil 8.10 R26 powered with /hbg/Shop and NXShop
+* Tinleaf 1.3.2
 * EdiZon Snapshot (Cheats included)
 * NXThemesInstaller 2.2.1
 * ftpd snap! 2.3.1

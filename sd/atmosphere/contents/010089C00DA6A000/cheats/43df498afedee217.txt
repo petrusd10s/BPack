@@ -133,3 +133,31 @@
 580F1000 000006D0
 780F0000 000000C4
 640F0000 00000000 CFFFF71F
+
+Code:
+[moving speed & attack speed 1.5x]
+04000000 004AE7D0 1E2F1000
+
+[moving speed & attack speed 2x]
+04000000 004AE7D0 1E201000
+
+[moving speed & attack speed 3x]
+04000000 004AE7D0 1E211000
+
+[moving speed & attack speed reduction]
+04000000 004AE7D0 1E2E1000
+
+[hit range 2x all characts]
+04000000 000643B4 1E201002
+
+[hit range 4x all characts]
+04000000 000643B4 1E221002
+
+[hit range 8x all characts]
+04000000 000643B4 1E241002
+
+[hit range 31x all characts]
+04000000 000643B4 1E27F002
+
+[hit distance reduction]
+04000000 000643B4 1E2E1002

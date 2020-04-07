@@ -1,7 +1,0 @@
-[From MAX-CHEATS.com by matias3ds for Peach Ball]
-
-[99999999 Money]
-04000000 00664ce0 3B9AC9FF
-04000000 00664ce4 3B9AC9FF 
-
-Made By Stoned

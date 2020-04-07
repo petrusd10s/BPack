@@ -1,2 +1,0 @@
-[no damage - inf health]
-04000000 001DAA90 D65F03C0

@@ -1,4 +1,0 @@
-[From MAX-CHEATS.com by Djchubby for Bomb Jack]
-
-[Vite infinite]
-01100000 0081c19b 00000007

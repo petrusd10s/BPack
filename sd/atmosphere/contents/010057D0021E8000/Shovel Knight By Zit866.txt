@@ -1,1 +1,0 @@
-※The Moon Jump code must return to the title or die.

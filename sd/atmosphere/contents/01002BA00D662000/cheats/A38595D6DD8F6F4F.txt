@@ -1,5 +1,0 @@
-[Free Craft]
-04000000 0030DACC 52800020
-
-[Affinity - Instant Allied on Update]
-04000000 0063677C 1E2E1009

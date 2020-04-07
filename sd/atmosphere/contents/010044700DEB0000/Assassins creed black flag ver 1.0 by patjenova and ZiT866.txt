@@ -1,1 +1,0 @@
-By changing 40800000, you can change to your preferred speed.

@@ -1,3 +1,0 @@
- [Walk through Walls]
-Hold R : Right & Left
-Hold R+L : Down

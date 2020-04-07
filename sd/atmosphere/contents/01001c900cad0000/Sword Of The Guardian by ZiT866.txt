@@ -1,2 +1,0 @@
-※ Activate the code when the game is loaded and the character is ready to move.
-※ Invincible, take the damage once and press the button when it stops blinking.

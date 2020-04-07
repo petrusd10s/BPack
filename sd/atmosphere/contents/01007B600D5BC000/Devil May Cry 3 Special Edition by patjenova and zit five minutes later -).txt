@@ -1,6 +1,0 @@
- [Walk through Walls]
-Hold R : Right & Left
-Hold R+L : Down
-
-DO NOT activate Have All Swords & Guns, All Items codes during game, it will crash.
-

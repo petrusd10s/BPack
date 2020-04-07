@@ -1,8 +1,0 @@
-[99 mil Gold]
-041F0013 903a3e90 4cbebc20
-
-[Inf Food]
-041F0013 90375e98 43c80000
-
-[Inf Light]
-041F0013 90375e9c 43c80000

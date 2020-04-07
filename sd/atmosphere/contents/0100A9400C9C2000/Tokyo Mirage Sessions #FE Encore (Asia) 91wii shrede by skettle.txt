@@ -1,1 +1,0 @@
-Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode .

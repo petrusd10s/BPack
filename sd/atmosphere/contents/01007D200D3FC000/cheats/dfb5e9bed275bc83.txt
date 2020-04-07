@@ -1,4 +1,0 @@
-[From MAX-CHEATS.com by Djchubby for Ice Climber]
-
-[Vite infinite]
-01100000 0078ca19 00000009

@@ -9,7 +9,8 @@ What does it include:
 * Tinfoil 8.10 R36 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
 * Tinleaf 1.3.2
 * Tesla Overlay Menu (with EdiZon Overlay)
-* EdiZon Snapshot (Cheats included)
+* EdiZon Snapshot
+* Switch Cheats Updater
 * NXThemesInstaller 2.2.1
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2

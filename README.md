@@ -8,9 +8,11 @@ What does it include:
 * Hekate CTCaer 5.1.3 Nyx 0.8.6
 * Tinfoil 8.10 R36 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
 * Tinleaf 1.3.2
-* Tesla Overlay Menu (with EdiZon Overlay)
-* EdiZon Snapshot
+* Tesla Overlay Menu
+* EdiZon Snapshot (with Tesla Overlay)
 * Switch Cheats Updater
+* emuiibo 0.4 (with Tesla Overlay)
+* Amiigo 1.6.0
 * NXThemesInstaller 2.2.1
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2

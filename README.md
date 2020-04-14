@@ -6,7 +6,7 @@ What does it include:
 
 * Atmosphere 0.10.5 (forked)
 * Hekate CTCaer 5.1.3 Nyx 0.8.6
-* Tinfoil 8.10 R36 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
+* Tinfoil 8.10 R40 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
 * Tinleaf 1.3.2
 * Tesla Overlay Menu
 * EdiZon Snapshot (with Tesla Overlay)

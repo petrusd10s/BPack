@@ -21,4 +21,4 @@ Included payload utilities in Hekate:
 
 * Lockpick_RCM 1.8.1
 * Incognito_RCM 0.6.1
-* TegraExplorer 1.5.0
+* TegraExplorer 1.5.1-hotfix

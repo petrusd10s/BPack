@@ -13,7 +13,7 @@ What does it include:
 * Switch Cheats Updater
 * emuiibo 0.4 (with Tesla Overlay)
 * Amiigo 1.6.0
-* NXThemesInstaller 2.2.1
+* NXThemesInstaller 2.3
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2
 

@@ -10,8 +10,7 @@ What does it include:
 * Tinleaf 1.3.2
 * Tesla Overlay Menu
 * EdiZon Snapshot (with Tesla Overlay)
-* Switch Cheats Updater
-* emuiibo 0.4 (with Tesla Overlay)
+* Switch Cheats Updater 1.1.4
 * Amiigo 1.6.0
 * NXThemesInstaller 2.3
 * ftpd snap! 2.3.1

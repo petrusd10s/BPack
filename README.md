@@ -4,8 +4,8 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere 0.10.5 (forked)
-* Hekate CTCaer 5.1.3 Nyx 0.8.6
+* Atmosphere NEUTOS 0.11.1
+* Hekate CTCaer 5.1.4 Nyx 0.8.7
 * Tinfoil 8.10 R40 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
 * Tinleaf 1.3.2
 * Tesla Overlay Menu

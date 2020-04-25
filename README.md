@@ -4,9 +4,9 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere NEUTOS 0.11.1-R3
+* Atmosphere NEUTOS 0.12.0
 * Hekate CTCaer 5.1.4 Nyx 0.8.7
-* Tinfoil 8.10 R47 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
+* Tinfoil 8.10 R48 powered with /hbg/Shop, JackInTheShop, CarrotShop and The Library
 * Tinleaf 1.3.2
 * TESLA Overlay Menu 1.1.3
 * emuiibo 0.5 (with Overlay)
@@ -18,7 +18,7 @@ What does it include:
 
 Included payload utilities in Hekate:
 
-* fusee-primary 0.11.1
+* fusee-primary 0.12.0
 * Lockpick_RCM 1.8.2
 * Incognito_RCM 0.6.2
 * TegraExplorer 1.5.1-hotfix

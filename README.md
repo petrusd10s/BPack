@@ -24,16 +24,16 @@ Included payload utilities in Hekate:
 * TegraExplorer 1.5.2
 
 Credits / Sources:
-https://github.com/Atmosphere-NX/Atmosphere
-https://github.com/borntohonk/NEUTOS/releases
-https://github.com/CTCaer/hekate
-https://github.com/petrusd10s/neutos-updater
-https://github.com/blawar for https://tinfoil.io/ and Tinleaf
-https://github.com/WerWolv/ for EdiZom, TESLA and their overlays
-https://github.com/XorTroll/emuiibo
-https://github.com/HamletDuFromage/switch-cheats-updater
-https://github.com/exelix11/SwitchThemeInjector
-https://github.com/mtheall/ftpd
-https://switchtools.sshnuke.net/ for ChoidujourNX
-https://github.com/shchmue/Lockpick_RCM
-https://github.com/suchmememanyskill/TegraExplorer
+* https://github.com/Atmosphere-NX/Atmosphere
+* https://github.com/borntohonk/NEUTOS/releases
+* https://github.com/CTCaer/hekate
+* https://github.com/petrusd10s/neutos-updater
+* https://github.com/blawar for https://tinfoil.io/ and Tinleaf
+* https://github.com/WerWolv/ for EdiZom, TESLA and their overlays
+* https://github.com/XorTroll/emuiibo
+* https://github.com/HamletDuFromage/switch-cheats-updater
+* https://github.com/exelix11/SwitchThemeInjector
+* https://github.com/mtheall/ftpd
+* https://switchtools.sshnuke.net/ for ChoidujourNX
+* https://github.com/shchmue/Lockpick_RCM
+* https://github.com/suchmememanyskill/TegraExplorer

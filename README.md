@@ -13,7 +13,7 @@ What does it include:
 * emuiibo 0.5 (with Overlay)
 * EdiZon Snapshot (with Overlay)
 * Switch Cheats Updater 1.1.6
-* NXThemesInstaller 2.3.1
+* NXThemesInstaller 2.3.2
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2
 

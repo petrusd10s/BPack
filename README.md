@@ -21,7 +21,7 @@ Included payload utilities in Hekate:
 
 * fusee-primary 0.12.0
 * Lockpick_RCM 1.8.2
-* TegraExplorer 2.0.0
+* TegraExplorer 2.0.1
 
 Credits / Sources:
 * https://github.com/Atmosphere-NX/Atmosphere

@@ -5,9 +5,9 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 What does it include:
 
 * Atmosphere NEUTOS 0.12.0 (Incognito applied)
-* Hekate CTCaer 5.2.0 Nyx 0.9.0
+* Hekate CTCaer 5.2.1 Nyx 0.9.1
 * BPack-updater 1.0.0
-* Tinfoil 8.10 R51 powered with /hbg/Shop and JackInTheShop
+* Tinfoil 8.10 R52 powered with /hbg/Shop and JackInTheShop
 * Tinleaf 1.3.2
 * TESLA Overlay Menu 1.1.3
 * emuiibo 0.5 (with Overlay)

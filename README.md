@@ -4,7 +4,7 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere NEUTOS 0.12.0 (Incognito applied)
+* Atmosphere Vanilla 0.12.0 (Incognito applied)
 * Hekate CTCaer 5.2.1 Nyx 0.9.1
 * BPack-updater 1.0.0
 * Tinfoil 8.10 R55 powered with /hbg/Shop
@@ -12,8 +12,8 @@ What does it include:
 * TESLA Overlay Menu 1.1.3
 * emuiibo 0.5 (with Overlay)
 * EdiZon Snapshot (with Overlay)
-* Switch Cheats Updater 1.1.6
-* NXThemesInstaller 2.3.2
+* Switch Cheats Updater 1.2.0
+* NXThemesInstaller 2.3.3
 * ftpd snap! 2.3.1
 * ChoiDujourNX 1.0.2
 
@@ -21,11 +21,10 @@ Included payload utilities in Hekate:
 
 * fusee-primary 0.12.0
 * Lockpick_RCM 1.8.2
-* TegraExplorer 2.0.1
+* TegraExplorer 2.0.2
 
 Credits / Sources:
 * https://github.com/Atmosphere-NX/Atmosphere
-* https://github.com/borntohonk/NEUTOS/releases
 * https://github.com/CTCaer/hekate
 * https://github.com/petrusd10s/neutos-updater
 * https://github.com/blawar for https://tinfoil.io/ and Tinleaf

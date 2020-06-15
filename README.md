@@ -4,8 +4,8 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere Vanilla 0.12.0 (Incognito applied)
-* Hekate CTCaer 5.2.1 Nyx 0.9.1
+* Atmosphere Vanilla 0.13.0 (Incognito applied)
+* Hekate CTCaer 5.3.0 Nyx 0.9.2
 * BPack-updater 1.0.0
 * Tinfoil 8.10 R55 powered with JITS and /hbg/Shop (disabled)
 * Tinleaf 1.3.2

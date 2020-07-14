@@ -7,10 +7,10 @@ What does it include:
 * Atmosphere Vanilla 0.13.0 (Incognito applied)
 * Hekate CTCaer 5.3.0 Nyx 0.9.2
 * BPack-updater 1.0.0
-* Tinfoil 8.10 R55 powered with JITS and /hbg/Shop (disabled)
+* Tinfoil 8.10 R56 powered with JITS and /hbg/Shop (disabled)
 * Tinleaf 1.3.2
 * TESLA Overlay Menu 1.1.3
-* emuiibo 0.5 (with Overlay)
+* emuiibo 0.5.1 (with Overlay)
 * EdiZon Snapshot (with Overlay)
 * Switch Cheats Updater 1.2.0
 * NXThemesInstaller 2.3.3
@@ -20,7 +20,7 @@ What does it include:
 Included payload utilities in Hekate:
 
 * fusee-primary 0.12.0
-* Lockpick_RCM 1.8.2
+* Lockpick_RCM 1.8.3
 * TegraExplorer 2.0.2
 
 Credits / Sources:

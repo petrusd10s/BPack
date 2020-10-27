@@ -4,10 +4,10 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere Vanilla 0.14.4 (Incognito applied)
+* Atmosphere Vanilla 0.15.0 (Incognito applied)
 * Hekate CTCaer 5.3.3 Nyx 0.9.4
 * BPack-updater 1.0.0
-* Tinfoil 8.10 R56 powered with JITS and /hbg/Shop (disabled)
+* Tinfoil 8.10 R76 powered with JITS and /hbg/Shop (disabled)
 * Tinleaf 1.3.2
 * EdiZon Snapshot
 * Switch Cheats Updater 1.2.0

@@ -4,11 +4,10 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere Vanilla 0.15.0 (Incognito applied)
-* Hekate CTCaer 5.3.3 Nyx 0.9.4
-* BPack-updater 1.0.0
-* Tinfoil 8.10 R76 powered with JITS and /hbg/Shop (disabled)
-* Tinleaf 1.3.2
+* Atmosphere Vanilla 0.16.0 (Incognito applied)
+* Hekate CTCaer 5.5.0 Nyx 0.9.6
+* Tinfoil 8.10 R83 powered with JITS and /hbg/Shop (disabled)
+* Tinleaf 1.4.1
 * EdiZon Snapshot
 * Switch Cheats Updater 1.2.0
 * ftpd pro 3.0.0
@@ -17,7 +16,7 @@ What does it include:
 
 Included payload utilities in Hekate:
 
-* fusee-primary 0.14.0
+* fusee-primary 0.16.0
 
 Credits / Sources:
 * https://github.com/Atmosphere-NX/Atmosphere

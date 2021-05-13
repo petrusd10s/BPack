@@ -4,8 +4,8 @@ Atmosphere pack that has everything you need to have the best CFW experience.
 
 What does it include:
 
-* Atmosphere Vanilla 0.19.1 (Incognito applied)
-* Hekate CTCaer 5.5.5 Nyx 1.0.2
+* Atmosphere Vanilla 0.19.3 (Incognito and patches applied)
+* Hekate CTCaer 5.5.6 Nyx 1.0.3
 * Tinfoil v12 powered with JackInTheShop (JITS)
 * Tinleaf 1.4.4
 * EdiZon Snapshot
@@ -15,7 +15,7 @@ What does it include:
 
 Included payload utilities in Hekate:
 
-* fusee-primary 0.17.0 (compatible with AMS 0.19.1)
+* fusee-primary 0.19.3 (compatible with AMS 0.19.3)
 
 Credits / Sources:
 * https://github.com/Atmosphere-NX/Atmosphere
